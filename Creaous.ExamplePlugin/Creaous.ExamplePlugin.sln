@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Creaous.ExamplePlugin", "C:\Users\Mitchell\Downloads\tutorials-master\tutorials-master\EzCar Mod Utility\Creaous.ExamplePlugin - Copy\Creaous.ExamplePlugin.csproj", "{46920EB6-346A-4B0E-8FAC-7A5A73118D9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46920EB6-346A-4B0E-8FAC-7A5A73118D9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46920EB6-346A-4B0E-8FAC-7A5A73118D9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46920EB6-346A-4B0E-8FAC-7A5A73118D9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46920EB6-346A-4B0E-8FAC-7A5A73118D9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9271373-3F03-404C-91C9-875AF4E388D7}
+	EndGlobalSection
+EndGlobal
