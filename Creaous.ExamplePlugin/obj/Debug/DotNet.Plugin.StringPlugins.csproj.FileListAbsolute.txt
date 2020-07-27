@@ -1,0 +1,9 @@
+C:\Users\Mitchell\Downloads\tutorials-master\tutorials-master\DotNet.Plugin\DotNet.Plugin.StringPlugins\bin\Debug\DotNet.Plugin.StringPlugins.dll
+C:\Users\Mitchell\Downloads\tutorials-master\tutorials-master\DotNet.Plugin\DotNet.Plugin.StringPlugins\bin\Debug\DotNet.Plugin.StringPlugins.pdb
+C:\Users\Mitchell\Downloads\tutorials-master\tutorials-master\DotNet.Plugin\DotNet.Plugin.StringPlugins\bin\Debug\DotNet.Plugin.Business.dll
+C:\Users\Mitchell\Downloads\tutorials-master\tutorials-master\DotNet.Plugin\DotNet.Plugin.StringPlugins\bin\Debug\DotNet.Plugin.Business.pdb
+C:\Users\Mitchell\Downloads\tutorials-master\tutorials-master\DotNet.Plugin\DotNet.Plugin.StringPlugins\obj\Debug\DotNet.Plugin.StringPlugins.csprojAssemblyReference.cache
+C:\Users\Mitchell\Downloads\tutorials-master\tutorials-master\DotNet.Plugin\DotNet.Plugin.StringPlugins\obj\Debug\DotNet.Plugin.StringPlugins.csproj.CoreCompileInputs.cache
+C:\Users\Mitchell\Downloads\tutorials-master\tutorials-master\DotNet.Plugin\DotNet.Plugin.StringPlugins\obj\Debug\DotNet.Plugin.StringPlugins.csproj.CopyComplete
+C:\Users\Mitchell\Downloads\tutorials-master\tutorials-master\DotNet.Plugin\DotNet.Plugin.StringPlugins\obj\Debug\DotNet.Plugin.StringPlugins.dll
+C:\Users\Mitchell\Downloads\tutorials-master\tutorials-master\DotNet.Plugin\DotNet.Plugin.StringPlugins\obj\Debug\DotNet.Plugin.StringPlugins.pdb

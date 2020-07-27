@@ -1,0 +1,27 @@
+C:\Users\Mitchell\Downloads\tutorials-master\tutorials-master\DotNet.Plugin\DotNet.Plugin.StringPlugins\bin\Debug\Creaous.ExamplePlugin.dll
+C:\Users\Mitchell\Downloads\tutorials-master\tutorials-master\DotNet.Plugin\DotNet.Plugin.StringPlugins\bin\Debug\Creaous.ExamplePlugin.pdb
+C:\Users\Mitchell\Downloads\tutorials-master\tutorials-master\DotNet.Plugin\DotNet.Plugin.StringPlugins\bin\Debug\DotNet.Plugin.Business.dll
+C:\Users\Mitchell\Downloads\tutorials-master\tutorials-master\DotNet.Plugin\DotNet.Plugin.StringPlugins\bin\Debug\DotNet.Plugin.Business.pdb
+C:\Users\Mitchell\Downloads\tutorials-master\tutorials-master\DotNet.Plugin\DotNet.Plugin.StringPlugins\obj\Debug\Creaous.ExamplePlugin.csprojAssemblyReference.cache
+C:\Users\Mitchell\Downloads\tutorials-master\tutorials-master\DotNet.Plugin\DotNet.Plugin.StringPlugins\obj\Debug\Creaous.ExamplePlugin.csproj.CoreCompileInputs.cache
+C:\Users\Mitchell\Downloads\tutorials-master\tutorials-master\DotNet.Plugin\DotNet.Plugin.StringPlugins\obj\Debug\Creaous.ExamplePlugin.csproj.CopyComplete
+C:\Users\Mitchell\Downloads\tutorials-master\tutorials-master\DotNet.Plugin\DotNet.Plugin.StringPlugins\obj\Debug\Creaous.ExamplePlugin.dll
+C:\Users\Mitchell\Downloads\tutorials-master\tutorials-master\DotNet.Plugin\DotNet.Plugin.StringPlugins\obj\Debug\Creaous.ExamplePlugin.pdb
+C:\Users\Mitchell\Downloads\tutorials-master\tutorials-master\DotNet.Plugin\Creaous.ExamplePlugin\bin\Debug\Creaous.ExamplePlugin.dll
+C:\Users\Mitchell\Downloads\tutorials-master\tutorials-master\DotNet.Plugin\Creaous.ExamplePlugin\bin\Debug\Creaous.ExamplePlugin.pdb
+C:\Users\Mitchell\Downloads\tutorials-master\tutorials-master\DotNet.Plugin\Creaous.ExamplePlugin\obj\Debug\Creaous.ExamplePlugin.csprojAssemblyReference.cache
+C:\Users\Mitchell\Downloads\tutorials-master\tutorials-master\DotNet.Plugin\Creaous.ExamplePlugin\obj\Debug\Creaous.ExamplePlugin.csproj.CoreCompileInputs.cache
+C:\Users\Mitchell\Downloads\tutorials-master\tutorials-master\DotNet.Plugin\Creaous.ExamplePlugin\obj\Debug\Creaous.ExamplePlugin.csproj.CopyComplete
+C:\Users\Mitchell\Downloads\tutorials-master\tutorials-master\DotNet.Plugin\Creaous.ExamplePlugin\obj\Debug\Creaous.ExamplePlugin.dll
+C:\Users\Mitchell\Downloads\tutorials-master\tutorials-master\DotNet.Plugin\Creaous.ExamplePlugin\obj\Debug\Creaous.ExamplePlugin.pdb
+C:\Users\Mitchell\Downloads\tutorials-master\tutorials-master\DotNet.Plugin\Creaous.ExamplePlugin\bin\Debug\ECMU.Plugins.dll
+C:\Users\Mitchell\Downloads\tutorials-master\tutorials-master\DotNet.Plugin\Creaous.ExamplePlugin\bin\Debug\ECMU.Plugins.pdb
+C:\Users\Mitchell\Downloads\tutorials-master\tutorials-master\EzCar Mod Utility\Creaous.ExamplePlugin\bin\Debug\Creaous.ExamplePlugin.dll
+C:\Users\Mitchell\Downloads\tutorials-master\tutorials-master\EzCar Mod Utility\Creaous.ExamplePlugin\bin\Debug\Creaous.ExamplePlugin.pdb
+C:\Users\Mitchell\Downloads\tutorials-master\tutorials-master\EzCar Mod Utility\Creaous.ExamplePlugin\bin\Debug\ECMU.Plugins.dll
+C:\Users\Mitchell\Downloads\tutorials-master\tutorials-master\EzCar Mod Utility\Creaous.ExamplePlugin\bin\Debug\ECMU.Plugins.pdb
+C:\Users\Mitchell\Downloads\tutorials-master\tutorials-master\EzCar Mod Utility\Creaous.ExamplePlugin\obj\Debug\Creaous.ExamplePlugin.csprojAssemblyReference.cache
+C:\Users\Mitchell\Downloads\tutorials-master\tutorials-master\EzCar Mod Utility\Creaous.ExamplePlugin\obj\Debug\Creaous.ExamplePlugin.csproj.CoreCompileInputs.cache
+C:\Users\Mitchell\Downloads\tutorials-master\tutorials-master\EzCar Mod Utility\Creaous.ExamplePlugin\obj\Debug\Creaous.ExamplePlugin.csproj.CopyComplete
+C:\Users\Mitchell\Downloads\tutorials-master\tutorials-master\EzCar Mod Utility\Creaous.ExamplePlugin\obj\Debug\Creaous.ExamplePlugin.dll
+C:\Users\Mitchell\Downloads\tutorials-master\tutorials-master\EzCar Mod Utility\Creaous.ExamplePlugin\obj\Debug\Creaous.ExamplePlugin.pdb
