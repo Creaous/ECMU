@@ -1,1 +1,1 @@
-xcopy "Creaous.ExamplePlugin.dll" "C:\Users\Mitchell\Downloads\tutorials-master\tutorials-master\EzCar Mod Utility\ECMU.Loader\bin\Debug\Plugins"
+xcopy "Creaous.ExamplePlugin.dll" ""
